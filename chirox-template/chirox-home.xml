@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/"
+>
+  <channel>
+    <title>Chirox - Chiropractic &amp; Physiotherapy</title>
+    <link>https://www.yoursite.com</link>
+    <description>Chiropractic &amp; Physiotherapy Clinic</description>
+    <language>fr-FR</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://www.yoursite.com</wp:base_site_url>
+    <wp:base_blog_url>https://www.yoursite.com</wp:base_blog_url>
+
+    <wp:author>
+      <wp:author_id>1</wp:author_id>
+      <wp:author_login><![CDATA[admin]]></wp:author_login>
+      <wp:author_email><![CDATA[admin@yoursite.com]]></wp:author_email>
+      <wp:author_display_name><![CDATA[Admin]]></wp:author_display_name>
+    </wp:author>
+
+    <!-- ============================================= -->
+    <!-- PAGE : Home                                    -->
+    <!-- ============================================= -->
+    <item>
+      <title>Home</title>
+      <link>https://www.yoursite.com/</link>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <content:encoded><![CDATA[<h1>Your Trusted Chiropractic &amp; Physiotherapy Clinic</h1>
+<p>We provide expert care to help you live pain-free.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_date><![CDATA[2026-03-17 00:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-03-17 00:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-03-17 00:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-03-17 00:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[home]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+        <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+        <wp:meta_value><![CDATA[3.21.0]]></wp:meta_value>
+      </wp:postmeta>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+        <wp:meta_value><![CDATA[[
+  {
+    "id": "home_hero_01",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "height": "min-height",
+      "custom_height": {"size": 700, "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#0B2545",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "rgba(11,37,69,0.85)",
+      "padding": {"top": "0", "bottom": "0", "left": "0", "right": "0", "unit": "px"},
+      "content_position": "middle"
+    },
+    "elements": [
+      {
+        "id": "home_hero_col1",
+        "elType": "column",
+        "settings": {"_column_size": 50, "content_position": "center", "padding": {"top": "60", "bottom": "60", "left": "80", "right": "40", "unit": "px"}},
+        "elements": [
+          {
+            "id": "home_hero_badge",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='display:inline-block;background:#13A89E;color:#fff;padding:8px 20px;border-radius:30px;font-size:14px;font-weight:600;letter-spacing:1px;text-transform:uppercase;'>Welcome to Chirox</p>",
+              "align": "left"
+            }
+          },
+          {
+            "id": "home_hero_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Your Trusted Chiropractic & Physiotherapy Clinic",
+              "align": "left",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 52, "unit": "px"},
+              "typography_font_weight": "800",
+              "typography_line_height": {"size": 1.2, "unit": "em"}
+            }
+          },
+          {
+            "id": "home_hero_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>We specialize in diagnosing and treating musculoskeletal disorders, helping you achieve optimal health through expert chiropractic adjustments and physiotherapy treatments.</p>",
+              "align": "left",
+              "text_color": "rgba(255,255,255,0.75)",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 17, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "home_hero_btn_wrap",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Book Appointment",
+              "link": {"url": "/contact", "is_external": false, "nofollow": false},
+              "align": "left",
+              "size": "lg",
+              "background_color": "#13A89E",
+              "button_text_color": "#FFFFFF",
+              "border_radius": {"top": "8", "right": "8", "bottom": "8", "left": "8", "unit": "px"},
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 15, "unit": "px"},
+              "typography_font_weight": "700",
+              "text_padding": {"top": "18", "right": "40", "bottom": "18", "left": "40", "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_hero_col2",
+        "elType": "column",
+        "settings": {"_column_size": 50, "content_position": "center"},
+        "elements": [
+          {
+            "id": "home_hero_img",
+            "elType": "widget",
+            "widgetType": "image",
+            "settings": {
+              "image": {"url": "/wp-content/uploads/hero-chiropractor.jpg", "id": ""},
+              "image_size": "full",
+              "align": "right",
+              "width": {"size": 100, "unit": "%"},
+              "border_radius": {"top": "20", "right": "20", "bottom": "20", "left": "20", "unit": "px"}
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home_stats_01",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "margin": {"top": "-60", "bottom": "0", "unit": "px"},
+      "padding": {"top": "0", "bottom": "0", "left": "40", "right": "40", "unit": "px"},
+      "z_index": 10,
+      "structure": "40"
+    },
+    "elements": [
+      {
+        "id": "home_stat_col1",
+        "elType": "column",
+        "settings": {
+          "_column_size": 25,
+          "background_background": "classic",
+          "background_color": "#13A89E",
+          "border_radius": {"top": "12", "right": "0", "bottom": "0", "left": "12", "unit": "px"},
+          "padding": {"top": "35", "bottom": "35", "left": "30", "right": "30", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "home_stat1_num",
+            "elType": "widget",
+            "widgetType": "counter",
+            "settings": {
+              "ending_number": 15,
+              "suffix": "+",
+              "title": "Years Experience",
+              "number_color": "#FFFFFF",
+              "title_color": "rgba(255,255,255,0.85)",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 42, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_stat_col2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 25,
+          "background_background": "classic",
+          "background_color": "#0B2545",
+          "padding": {"top": "35", "bottom": "35", "left": "30", "right": "30", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "home_stat2_num",
+            "elType": "widget",
+            "widgetType": "counter",
+            "settings": {
+              "ending_number": 5000,
+              "suffix": "+",
+              "title": "Happy Patients",
+              "number_color": "#13A89E",
+              "title_color": "rgba(255,255,255,0.85)",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 42, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_stat_col3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 25,
+          "background_background": "classic",
+          "background_color": "#13A89E",
+          "padding": {"top": "35", "bottom": "35", "left": "30", "right": "30", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "home_stat3_num",
+            "elType": "widget",
+            "widgetType": "counter",
+            "settings": {
+              "ending_number": 25,
+              "suffix": "+",
+              "title": "Expert Therapists",
+              "number_color": "#FFFFFF",
+              "title_color": "rgba(255,255,255,0.85)",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 42, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_stat_col4",
+        "elType": "column",
+        "settings": {
+          "_column_size": 25,
+          "background_background": "classic",
+          "background_color": "#0B2545",
+          "border_radius": {"top": "0", "right": "12", "bottom": "12", "left": "0", "unit": "px"},
+          "padding": {"top": "35", "bottom": "35", "left": "30", "right": "30", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "home_stat4_num",
+            "elType": "widget",
+            "widgetType": "counter",
+            "settings": {
+              "ending_number": 98,
+              "suffix": "%",
+              "title": "Success Rate",
+              "number_color": "#13A89E",
+              "title_color": "rgba(255,255,255,0.85)",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 42, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home_about_01",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "100", "bottom": "100", "left": "20", "right": "20", "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "structure": "20"
+    },
+    "elements": [
+      {
+        "id": "home_about_col1",
+        "elType": "column",
+        "settings": {"_column_size": 50, "content_position": "center", "padding": {"top": "0", "bottom": "0", "left": "0", "right": "40", "unit": "px"}},
+        "elements": [
+          {
+            "id": "home_about_img",
+            "elType": "widget",
+            "widgetType": "image",
+            "settings": {
+              "image": {"url": "/wp-content/uploads/about-chiropractor.jpg", "id": ""},
+              "image_size": "full",
+              "width": {"size": 100, "unit": "%"},
+              "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_about_col2",
+        "elType": "column",
+        "settings": {"_column_size": 50, "content_position": "center", "padding": {"top": "0", "bottom": "0", "left": "40", "right": "0", "unit": "px"}},
+        "elements": [
+          {
+            "id": "home_about_label",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='color:#13A89E;font-weight:700;font-size:14px;text-transform:uppercase;letter-spacing:2px;'>About Chirox</p>",
+              "align": "left"
+            }
+          },
+          {
+            "id": "home_about_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "We Are Dedicated to Your Spinal Health & Overall Wellness",
+              "align": "left",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 36, "unit": "px"},
+              "typography_font_weight": "800",
+              "typography_line_height": {"size": 1.3, "unit": "em"}
+            }
+          },
+          {
+            "id": "home_about_text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Chiropractic is a form of alternative medicine that focuses on diagnosing and treating mechanical disorders of the musculoskeletal system, particularly the spine. Our clinic combines traditional chiropractic methods with modern physiotherapy techniques to provide comprehensive care.</p><p>Our team of experienced practitioners is committed to helping you achieve pain-free living through personalized treatment plans tailored to your specific needs.</p>",
+              "text_color": "#555555",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 16, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "home_about_btn",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Learn More About Us",
+              "link": {"url": "/about", "is_external": false, "nofollow": false},
+              "size": "md",
+              "background_color": "#13A89E",
+              "button_text_color": "#FFFFFF",
+              "border_radius": {"top": "8", "right": "8", "bottom": "8", "left": "8", "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home_services_01",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "100", "bottom": "100", "left": "20", "right": "20", "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#F4F9F8"
+    },
+    "elements": [
+      {
+        "id": "home_svc_header_col",
+        "elType": "column",
+        "settings": {"_column_size": 100, "align": "center"},
+        "elements": [
+          {
+            "id": "home_svc_label",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='color:#13A89E;font-weight:700;font-size:14px;text-transform:uppercase;letter-spacing:2px;text-align:center;'>Our Services</p>",
+              "align": "center"
+            }
+          },
+          {
+            "id": "home_svc_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Comprehensive Care for Your Body",
+              "align": "center",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 40, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home_services_grid",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "0", "bottom": "100", "left": "20", "right": "20", "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#F4F9F8",
+      "structure": "30",
+      "gap": "extended"
+    },
+    "elements": [
+      {
+        "id": "home_svc_col1",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "40", "bottom": "40", "left": "30", "right": "30", "unit": "px"},
+          "box_shadow_box_shadow": {"horizontal": 0, "vertical": 10, "blur": 40, "spread": 0, "color": "rgba(0,0,0,0.06)"}
+        },
+        "elements": [
+          {
+            "id": "home_svc1_icon",
+            "elType": "widget",
+            "widgetType": "icon",
+            "settings": {
+              "selected_icon": {"value": "fas fa-bone", "library": "fa-solid"},
+              "primary_color": "#13A89E",
+              "size": {"size": 50, "unit": "px"},
+              "align": "left"
+            }
+          },
+          {
+            "id": "home_svc1_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Spinal Adjustment",
+              "header_size": "h3",
+              "title_color": "#0B2545",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 22, "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          },
+          {
+            "id": "home_svc1_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Expert spinal manipulation to restore proper alignment, reduce nerve irritability, and improve overall function of the musculoskeletal system.</p>",
+              "text_color": "#666666",
+              "typography_font_size": {"size": 15, "unit": "px"}
+            }
+          },
+          {
+            "id": "home_svc1_link",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Read More →",
+              "link": {"url": "/services/spinal-adjustment", "is_external": false},
+              "button_type": "link",
+              "button_text_color": "#13A89E",
+              "typography_font_weight": "700",
+              "typography_font_size": {"size": 14, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_svc_col2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "40", "bottom": "40", "left": "30", "right": "30", "unit": "px"},
+          "box_shadow_box_shadow": {"horizontal": 0, "vertical": 10, "blur": 40, "spread": 0, "color": "rgba(0,0,0,0.06)"}
+        },
+        "elements": [
+          {
+            "id": "home_svc2_icon",
+            "elType": "widget",
+            "widgetType": "icon",
+            "settings": {
+              "selected_icon": {"value": "fas fa-hand-holding-medical", "library": "fa-solid"},
+              "primary_color": "#13A89E",
+              "size": {"size": 50, "unit": "px"},
+              "align": "left"
+            }
+          },
+          {
+            "id": "home_svc2_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Physiotherapy",
+              "header_size": "h3",
+              "title_color": "#0B2545",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 22, "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          },
+          {
+            "id": "home_svc2_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Rehabilitation programs designed to restore movement and function through targeted exercises, manual therapy, and advanced modalities.</p>",
+              "text_color": "#666666",
+              "typography_font_size": {"size": 15, "unit": "px"}
+            }
+          },
+          {
+            "id": "home_svc2_link",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Read More →",
+              "link": {"url": "/services/physiotherapy", "is_external": false},
+              "button_type": "link",
+              "button_text_color": "#13A89E",
+              "typography_font_weight": "700",
+              "typography_font_size": {"size": 14, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_svc_col3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "40", "bottom": "40", "left": "30", "right": "30", "unit": "px"},
+          "box_shadow_box_shadow": {"horizontal": 0, "vertical": 10, "blur": 40, "spread": 0, "color": "rgba(0,0,0,0.06)"}
+        },
+        "elements": [
+          {
+            "id": "home_svc3_icon",
+            "elType": "widget",
+            "widgetType": "icon",
+            "settings": {
+              "selected_icon": {"value": "fas fa-spa", "library": "fa-solid"},
+              "primary_color": "#13A89E",
+              "size": {"size": 50, "unit": "px"},
+              "align": "left"
+            }
+          },
+          {
+            "id": "home_svc3_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Massage Therapy",
+              "header_size": "h3",
+              "title_color": "#0B2545",
+              "typography_typography": "custom",
+              "typography_font_size": {"size": 22, "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          },
+          {
+            "id": "home_svc3_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Therapeutic massage techniques to relieve tension, reduce stress, improve circulation, and promote natural healing of soft tissues.</p>",
+              "text_color": "#666666",
+              "typography_font_size": {"size": 15, "unit": "px"}
+            }
+          },
+          {
+            "id": "home_svc3_link",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Read More →",
+              "link": {"url": "/services/massage-therapy", "is_external": false},
+              "button_type": "link",
+              "button_text_color": "#13A89E",
+              "typography_font_weight": "700",
+              "typography_font_size": {"size": 14, "unit": "px"}
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home_cta_01",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "background_background": "classic",
+      "background_color": "#0B2545",
+      "padding": {"top": "80", "bottom": "80", "left": "0", "right": "0", "unit": "px"},
+      "structure": "20"
+    },
+    "elements": [
+      {
+        "id": "home_cta_col1",
+        "elType": "column",
+        "settings": {"_column_size": 60, "content_position": "center", "padding": {"left": "80", "right": "40", "unit": "px"}},
+        "elements": [
+          {
+            "id": "home_cta_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Ready to Start Your Journey to Pain-Free Living?",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 36, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          },
+          {
+            "id": "home_cta_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Book your first consultation today and discover how our expert team can help you achieve optimal health and wellness.</p>",
+              "text_color": "rgba(255,255,255,0.7)",
+              "typography_font_size": {"size": 16, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_cta_col2",
+        "elType": "column",
+        "settings": {"_column_size": 40, "content_position": "center", "align": "center"},
+        "elements": [
+          {
+            "id": "home_cta_btn",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Book an Appointment",
+              "link": {"url": "/contact", "is_external": false},
+              "size": "xl",
+              "background_color": "#13A89E",
+              "button_text_color": "#FFFFFF",
+              "border_radius": {"top": "8", "right": "8", "bottom": "8", "left": "8", "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home_testimonials_01",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "100", "bottom": "100", "left": "20", "right": "20", "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "home_testi_header",
+        "elType": "column",
+        "settings": {"_column_size": 100, "align": "center"},
+        "elements": [
+          {
+            "id": "home_testi_label",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='color:#13A89E;font-weight:700;font-size:14px;text-transform:uppercase;letter-spacing:2px;text-align:center;'>Testimonials</p>",
+              "align": "center"
+            }
+          },
+          {
+            "id": "home_testi_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "What Our Patients Say",
+              "align": "center",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 40, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home_testimonials_grid",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "0", "bottom": "100", "left": "20", "right": "20", "unit": "px"},
+      "background_color": "#FFFFFF",
+      "structure": "30",
+      "gap": "extended"
+    },
+    "elements": [
+      {
+        "id": "home_testi_col1",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "background_background": "classic",
+          "background_color": "#F4F9F8",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "35", "bottom": "35", "left": "30", "right": "30", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "home_testi1_stars",
+            "elType": "widget",
+            "widgetType": "star-rating",
+            "settings": {"rating": {"size": 5}, "star_color": "#F4B400", "star_size": {"size": 18, "unit": "px"}}
+          },
+          {
+            "id": "home_testi1_text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p><em>\"After years of chronic back pain, the team at Chirox has completely changed my life. I no longer need pain medication and can enjoy activities I had given up on.\"</em></p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 15, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "home_testi1_name",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Sarah M.",
+              "header_size": "h4",
+              "title_color": "#0B2545",
+              "typography_font_weight": "700",
+              "typography_font_size": {"size": 16, "unit": "px"}
+            }
+          },
+          {
+            "id": "home_testi1_role",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Patient since 2023</p>",
+              "text_color": "#13A89E",
+              "typography_font_size": {"size": 13, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_testi_col2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "background_background": "classic",
+          "background_color": "#F4F9F8",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "35", "bottom": "35", "left": "30", "right": "30", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "home_testi2_stars",
+            "elType": "widget",
+            "widgetType": "star-rating",
+            "settings": {"rating": {"size": 5}, "star_color": "#F4B400", "star_size": {"size": 18, "unit": "px"}}
+          },
+          {
+            "id": "home_testi2_text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p><em>\"The personalized treatment plan they created for me was exceptional. Each session brought noticeable improvement. I highly recommend their physiotherapy services.\"</em></p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 15, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "home_testi2_name",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "James T.",
+              "header_size": "h4",
+              "title_color": "#0B2545",
+              "typography_font_weight": "700",
+              "typography_font_size": {"size": 16, "unit": "px"}
+            }
+          },
+          {
+            "id": "home_testi2_role",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Patient since 2024</p>",
+              "text_color": "#13A89E",
+              "typography_font_size": {"size": 13, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_testi_col3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "background_background": "classic",
+          "background_color": "#F4F9F8",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "35", "bottom": "35", "left": "30", "right": "30", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "home_testi3_stars",
+            "elType": "widget",
+            "widgetType": "star-rating",
+            "settings": {"rating": {"size": 5}, "star_color": "#F4B400", "star_size": {"size": 18, "unit": "px"}}
+          },
+          {
+            "id": "home_testi3_text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p><em>\"My posture has improved dramatically since starting treatment at Chirox. The therapists are knowledgeable, caring, and truly invested in your recovery.\"</em></p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 15, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "home_testi3_name",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Emily R.",
+              "header_size": "h4",
+              "title_color": "#0B2545",
+              "typography_font_weight": "700",
+              "typography_font_size": {"size": 16, "unit": "px"}
+            }
+          },
+          {
+            "id": "home_testi3_role",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Patient since 2022</p>",
+              "text_color": "#13A89E",
+              "typography_font_size": {"size": 13, "unit": "px"}
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home_appointment_01",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "100", "bottom": "100", "left": "20", "right": "20", "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#F4F9F8",
+      "structure": "20"
+    },
+    "elements": [
+      {
+        "id": "home_appt_col1",
+        "elType": "column",
+        "settings": {"_column_size": 50, "padding": {"right": "40", "unit": "px"}},
+        "elements": [
+          {
+            "id": "home_appt_label",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='color:#13A89E;font-weight:700;font-size:14px;text-transform:uppercase;letter-spacing:2px;'>Book Appointment</p>"
+            }
+          },
+          {
+            "id": "home_appt_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Schedule Your Visit Today",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 36, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          },
+          {
+            "id": "home_appt_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Fill out the form and our team will get back to you within 24 hours to confirm your appointment. We offer flexible scheduling to accommodate your needs.</p>",
+              "text_color": "#555555"
+            }
+          },
+          {
+            "id": "home_appt_info1",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+              "icon_list": [
+                {"text": "Monday - Friday: 8:00 AM - 7:00 PM", "selected_icon": {"value": "fas fa-clock", "library": "fa-solid"}},
+                {"text": "Saturday: 9:00 AM - 5:00 PM", "selected_icon": {"value": "fas fa-clock", "library": "fa-solid"}},
+                {"text": "+1 (555) 123-4567", "selected_icon": {"value": "fas fa-phone", "library": "fa-solid"}},
+                {"text": "info@chirox-clinic.com", "selected_icon": {"value": "fas fa-envelope", "library": "fa-solid"}}
+              ],
+              "icon_color": "#13A89E",
+              "text_color": "#555555",
+              "space_between": {"size": 20, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "home_appt_col2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "40", "bottom": "40", "left": "40", "right": "40", "unit": "px"},
+          "box_shadow_box_shadow": {"horizontal": 0, "vertical": 10, "blur": 40, "spread": 0, "color": "rgba(0,0,0,0.06)"}
+        },
+        "elements": [
+          {
+            "id": "home_appt_form",
+            "elType": "widget",
+            "widgetType": "shortcode",
+            "settings": {
+              "shortcode": "[metform form_id=\"FORM_ID\"]"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]]]></wp:meta_value>
+      </wp:postmeta>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+        <wp:meta_value><![CDATA[a:2:{s:10:"hide_title";s:3:"yes";s:8:"template";s:25:"elementor_header_footer";}]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+
+  </channel>
+</rss>

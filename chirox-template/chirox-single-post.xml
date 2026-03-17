@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/"
+>
+  <channel>
+    <title>Chirox - Single Post</title>
+    <link>https://www.yoursite.com</link>
+    <description>Single Blog Post Template</description>
+    <language>fr-FR</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://www.yoursite.com</wp:base_site_url>
+    <wp:base_blog_url>https://www.yoursite.com</wp:base_blog_url>
+
+    <wp:author>
+      <wp:author_id>1</wp:author_id>
+      <wp:author_login><![CDATA[admin]]></wp:author_login>
+      <wp:author_email><![CDATA[admin@yoursite.com]]></wp:author_email>
+      <wp:author_display_name><![CDATA[Admin]]></wp:author_display_name>
+    </wp:author>
+
+    <item>
+      <title>5 Signs You Need to See a Chiropractor</title>
+      <link>https://www.yoursite.com/blog/5-signs-chiropractor/</link>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <content:encoded><![CDATA[<h1>5 Signs You Need to See a Chiropractor</h1>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>70</wp:post_id>
+      <wp:post_date><![CDATA[2026-03-10 00:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-03-10 00:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-03-10 00:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-03-10 00:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[open]]></wp:comment_status>
+      <wp:ping_status><![CDATA[open]]></wp:ping_status>
+      <wp:post_name><![CDATA[5-signs-chiropractor]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type><![CDATA[post]]></wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="chiropractic"><![CDATA[Chiropractic]]></category>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+        <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+        <wp:meta_value><![CDATA[3.21.0]]></wp:meta_value>
+      </wp:postmeta>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+        <wp:meta_value><![CDATA[[
+  {
+    "id": "sp_hero_01",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "height": "min-height",
+      "custom_height": {"size": 400, "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#0B2545",
+      "content_position": "middle",
+      "padding": {"top": "120", "bottom": "60", "unit": "px"}
+    },
+    "elements": [
+      {
+        "id": "sp_hero_col",
+        "elType": "column",
+        "settings": {"_column_size": 100, "align": "center"},
+        "elements": [
+          {
+            "id": "sp_breadcrumb",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;'><a href='/' style='color:rgba(255,255,255,0.6);text-decoration:none;'>Home</a> <span style='color:rgba(255,255,255,0.4);margin:0 10px;'>/</span> <a href='/blog' style='color:rgba(255,255,255,0.6);text-decoration:none;'>Blog</a> <span style='color:rgba(255,255,255,0.4);margin:0 10px;'>/</span> <span style='color:#13A89E;'>Article</span></p>"
+            }
+          },
+          {
+            "id": "sp_category",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;'><span style='display:inline-block;background:#13A89E;color:#fff;padding:6px 18px;border-radius:20px;font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:1px;'>Chiropractic</span></p>"
+            }
+          },
+          {
+            "id": "sp_hero_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "5 Signs You Need to See a Chiropractor",
+              "align": "center",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 44, "unit": "px"},
+              "typography_font_weight": "800",
+              "typography_line_height": {"size": 1.3, "unit": "em"}
+            }
+          },
+          {
+            "id": "sp_meta",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;color:rgba(255,255,255,0.6);font-size:14px;'><i class='far fa-calendar-alt'></i> March 10, 2026 &nbsp;&bull;&nbsp; <i class='far fa-user'></i> Dr. Michael Carter &nbsp;&bull;&nbsp; <i class='far fa-clock'></i> 5 min read</p>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sp_content_01",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "80", "bottom": "80", "left": "20", "right": "20", "unit": "px"},
+      "background_color": "#FFFFFF",
+      "structure": "20"
+    },
+    "elements": [
+      {
+        "id": "sp_main_col",
+        "elType": "column",
+        "settings": {"_column_size": 65, "padding": {"right": "40", "unit": "px"}},
+        "elements": [
+          {
+            "id": "sp_featured_img",
+            "elType": "widget",
+            "widgetType": "image",
+            "settings": {
+              "image": {"url": "/wp-content/uploads/blog-1-full.jpg", "id": ""},
+              "image_size": "full",
+              "width": {"size": 100, "unit": "%"},
+              "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"}
+            }
+          },
+          {
+            "id": "sp_intro",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Many people wait until they're in severe pain before seeking chiropractic care. However, your body often sends subtle signals that something isn't right long before pain becomes debilitating. Here are five key signs that it's time to schedule an appointment with a chiropractor.</p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 17, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "sp_h2_1",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "1. Chronic Back or Neck Pain",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 26, "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          },
+          {
+            "id": "sp_text_1",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Persistent back or neck pain that doesn't improve with rest or over-the-counter medication is one of the most common reasons people seek chiropractic care. This type of pain often indicates spinal misalignment, muscle imbalances, or nerve compression that can be effectively treated through chiropractic adjustments.</p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 16, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "sp_h2_2",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "2. Frequent Headaches",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 26, "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          },
+          {
+            "id": "sp_text_2",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>Recurring headaches, especially tension headaches and migraines, can often be traced back to spinal issues in the neck area. Chiropractic adjustments can help relieve the underlying tension and nerve irritation that contribute to chronic headaches.</p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 16, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "sp_h2_3",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "3. Limited Range of Motion",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 26, "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          },
+          {
+            "id": "sp_text_3",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>If you notice that your arms, legs, or neck don't move as freely as they used to, this could indicate joint or muscular problems. A chiropractor can identify the source of restricted movement and use targeted techniques to restore your full range of motion.</p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 16, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "sp_quote",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<blockquote style='border-left:4px solid #13A89E;padding:20px 25px;margin:30px 0;background:#F4F9F8;border-radius:0 12px 12px 0;'><p style='font-size:18px;color:#0B2545;font-style:italic;font-weight:600;margin:0;'>\"Prevention is better than cure. Regular chiropractic check-ups can help identify and address issues before they become serious problems.\"</p></blockquote>"
+            }
+          },
+          {
+            "id": "sp_h2_4",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "4. Sedentary Lifestyle",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 26, "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          },
+          {
+            "id": "sp_text_4",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>If you spend most of your day sitting at a desk, you may be putting excessive strain on your spine without realizing it. Poor posture while working can lead to spinal misalignment, muscle tension, and increased pressure on your discs. Regular chiropractic care can help counteract these effects.</p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 16, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "sp_h2_5",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "5. Recent Injury or Accident",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 26, "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          },
+          {
+            "id": "sp_text_5",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p>After a car accident, sports injury, or fall, it's important to get checked by a chiropractor even if you don't feel immediate pain. Injuries to the spine and joints can have delayed symptoms, and early intervention can prevent chronic issues from developing.</p>",
+              "text_color": "#555555",
+              "typography_font_size": {"size": 16, "unit": "px"},
+              "typography_line_height": {"size": 1.8, "unit": "em"}
+            }
+          },
+          {
+            "id": "sp_tags",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='margin-top:40px;padding-top:20px;border-top:1px solid #E8E8E8;'><strong style='color:#0B2545;'>Tags:</strong> <span style='display:inline-block;background:#F4F9F8;padding:5px 14px;border-radius:6px;margin:4px;font-size:13px;color:#555;'>Chiropractic</span> <span style='display:inline-block;background:#F4F9F8;padding:5px 14px;border-radius:6px;margin:4px;font-size:13px;color:#555;'>Health Tips</span> <span style='display:inline-block;background:#F4F9F8;padding:5px 14px;border-radius:6px;margin:4px;font-size:13px;color:#555;'>Back Pain</span> <span style='display:inline-block;background:#F4F9F8;padding:5px 14px;border-radius:6px;margin:4px;font-size:13px;color:#555;'>Prevention</span></p>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "sp_sidebar_col",
+        "elType": "column",
+        "settings": {"_column_size": 35},
+        "elements": [
+          {
+            "id": "sp_sidebar_search",
+            "elType": "widget",
+            "widgetType": "shortcode",
+            "settings": {
+              "shortcode": "[search_form]"
+            }
+          },
+          {
+            "id": "sp_sidebar_cat_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Categories",
+              "header_size": "h4",
+              "title_color": "#0B2545",
+              "typography_font_weight": "700",
+              "typography_font_size": {"size": 20, "unit": "px"}
+            }
+          },
+          {
+            "id": "sp_sidebar_categories",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+              "icon_list": [
+                {"text": "Chiropractic (8)", "selected_icon": {"value": "fas fa-chevron-right", "library": "fa-solid"}},
+                {"text": "Physiotherapy (5)", "selected_icon": {"value": "fas fa-chevron-right", "library": "fa-solid"}},
+                {"text": "Wellness (7)", "selected_icon": {"value": "fas fa-chevron-right", "library": "fa-solid"}},
+                {"text": "Tips & Advice (4)", "selected_icon": {"value": "fas fa-chevron-right", "library": "fa-solid"}},
+                {"text": "Sports Health (3)", "selected_icon": {"value": "fas fa-chevron-right", "library": "fa-solid"}}
+              ],
+              "icon_color": "#13A89E",
+              "text_color": "#555555",
+              "space_between": {"size": 12, "unit": "px"}
+            }
+          },
+          {
+            "id": "sp_sidebar_recent_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Recent Posts",
+              "header_size": "h4",
+              "title_color": "#0B2545",
+              "typography_font_weight": "700",
+              "typography_font_size": {"size": 20, "unit": "px"},
+              "margin": {"top": "30", "unit": "px"}
+            }
+          },
+          {
+            "id": "sp_sidebar_recent",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<div style='margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid #E8E8E8;'><p style='font-size:13px;color:#13A89E;font-weight:600;margin-bottom:5px;'>March 5, 2026</p><p style='font-size:16px;color:#0B2545;font-weight:600;margin:0;'>The Benefits of Regular Physiotherapy Sessions</p></div><div style='margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid #E8E8E8;'><p style='font-size:13px;color:#13A89E;font-weight:600;margin-bottom:5px;'>February 28, 2026</p><p style='font-size:16px;color:#0B2545;font-weight:600;margin:0;'>How to Maintain Good Posture While Working from Home</p></div><div style='margin-bottom:20px;'><p style='font-size:13px;color:#13A89E;font-weight:600;margin-bottom:5px;'>February 20, 2026</p><p style='font-size:16px;color:#0B2545;font-weight:600;margin:0;'>Understanding Sciatica: Causes and Treatment Options</p></div>"
+            }
+          },
+          {
+            "id": "sp_sidebar_cta",
+            "elType": "section",
+            "isInner": true,
+            "settings": {
+              "background_background": "classic",
+              "background_color": "#0B2545",
+              "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+              "padding": {"top": "35", "bottom": "35", "left": "25", "right": "25", "unit": "px"},
+              "margin": {"top": "30", "unit": "px"}
+            },
+            "elements": [
+              {
+                "id": "sp_sidebar_cta_col",
+                "elType": "column",
+                "settings": {"_column_size": 100},
+                "elements": [
+                  {
+                    "id": "sp_sidebar_cta_t",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "Need Expert Advice?",
+                      "title_color": "#FFFFFF",
+                      "typography_font_size": {"size": 22, "unit": "px"},
+                      "typography_font_weight": "700"
+                    }
+                  },
+                  {
+                    "id": "sp_sidebar_cta_d",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>Book a consultation with our team.</p>",
+                      "text_color": "rgba(255,255,255,0.7)"
+                    }
+                  },
+                  {
+                    "id": "sp_sidebar_cta_b",
+                    "elType": "widget",
+                    "widgetType": "button",
+                    "settings": {
+                      "text": "Book Now",
+                      "link": {"url": "/contact", "is_external": false},
+                      "background_color": "#13A89E",
+                      "button_text_color": "#FFFFFF",
+                      "border_radius": {"top": "8", "right": "8", "bottom": "8", "left": "8", "unit": "px"},
+                      "typography_font_weight": "700"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]]]></wp:meta_value>
+      </wp:postmeta>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+        <wp:meta_value><![CDATA[a:2:{s:10:"hide_title";s:3:"yes";s:8:"template";s:25:"elementor_header_footer";}]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

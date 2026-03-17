@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/"
+>
+  <channel>
+    <title>Chirox - Therapist</title>
+    <link>https://www.yoursite.com</link>
+    <description>Therapist Team Page</description>
+    <language>fr-FR</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://www.yoursite.com</wp:base_site_url>
+    <wp:base_blog_url>https://www.yoursite.com</wp:base_blog_url>
+
+    <wp:author>
+      <wp:author_id>1</wp:author_id>
+      <wp:author_login><![CDATA[admin]]></wp:author_login>
+      <wp:author_email><![CDATA[admin@yoursite.com]]></wp:author_email>
+      <wp:author_display_name><![CDATA[Admin]]></wp:author_display_name>
+    </wp:author>
+
+    <item>
+      <title>Our Therapists</title>
+      <link>https://www.yoursite.com/therapist/</link>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <content:encoded><![CDATA[<h1>Our Therapists</h1>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>80</wp:post_id>
+      <wp:post_date><![CDATA[2026-03-17 00:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-03-17 00:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-03-17 00:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-03-17 00:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[therapist]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+        <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+        <wp:meta_value><![CDATA[3.21.0]]></wp:meta_value>
+      </wp:postmeta>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+        <wp:meta_value><![CDATA[[
+  {
+    "id": "th_hero_01",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "height": "min-height",
+      "custom_height": {"size": 400, "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#0B2545",
+      "content_position": "middle",
+      "padding": {"top": "120", "bottom": "60", "unit": "px"}
+    },
+    "elements": [
+      {
+        "id": "th_hero_col",
+        "elType": "column",
+        "settings": {"_column_size": 100, "align": "center"},
+        "elements": [
+          {
+            "id": "th_breadcrumb",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;'><a href='/' style='color:rgba(255,255,255,0.6);text-decoration:none;'>Home</a> <span style='color:rgba(255,255,255,0.4);margin:0 10px;'>/</span> <span style='color:#13A89E;'>Our Therapists</span></p>"
+            }
+          },
+          {
+            "id": "th_hero_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Our Therapists",
+              "align": "center",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 52, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          },
+          {
+            "id": "th_hero_sub",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;max-width:600px;margin:0 auto;'>Meet the dedicated professionals behind your recovery and wellness journey.</p>",
+              "text_color": "rgba(255,255,255,0.7)",
+              "typography_font_size": {"size": 17, "unit": "px"}
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "th_grid_row1",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "100", "bottom": "30", "left": "20", "right": "20", "unit": "px"},
+      "background_color": "#FFFFFF",
+      "structure": "40",
+      "gap": "extended"
+    },
+    "elements": [
+      {
+        "id": "th_card_1",
+        "elType": "column",
+        "settings": {
+          "_column_size": 25,
+          "background_background": "classic",
+          "background_color": "#F4F9F8",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "0", "bottom": "30", "left": "0", "right": "0", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "th1_img",
+            "elType": "widget",
+            "widgetType": "image",
+            "settings": {
+              "image": {"url": "/wp-content/uploads/therapist-1.jpg", "id": ""},
+              "image_size": "full",
+              "width": {"size": 100, "unit": "%"},
+              "border_radius": {"top": "16", "right": "16", "bottom": "0", "left": "0", "unit": "px"}
+            }
+          },
+          {
+            "id": "th1_name",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Dr. Michael Carter",
+              "align": "center",
+              "header_size": "h3",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 20, "unit": "px"},
+              "typography_font_weight": "700",
+              "margin": {"top": "20", "unit": "px"}
+            }
+          },
+          {
+            "id": "th1_role",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#13A89E;font-weight:600;font-size:14px;margin-bottom:10px;'>Lead Chiropractor</p>",
+              "align": "center"
+            }
+          },
+          {
+            "id": "th1_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;padding:0 20px;'>15+ years of experience specializing in spinal adjustment and sports injury rehabilitation.</p>",
+              "text_color": "#666666",
+              "typography_font_size": {"size": 14, "unit": "px"}
+            }
+          },
+          {
+            "id": "th1_social",
+            "elType": "widget",
+            "widgetType": "social-icons",
+            "settings": {
+              "social_icon_list": [
+                {"social_icon": {"value": "fab fa-facebook-f", "library": "fa-brands"}, "link": {"url": "#"}},
+                {"social_icon": {"value": "fab fa-linkedin-in", "library": "fa-brands"}, "link": {"url": "#"}},
+                {"social_icon": {"value": "fab fa-twitter", "library": "fa-brands"}, "link": {"url": "#"}}
+              ],
+              "align": "center",
+              "icon_color": "custom",
+              "icon_primary_color": "#13A89E",
+              "icon_secondary_color": "#FFFFFF",
+              "shape": "circle",
+              "icon_size": {"size": 14, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "th_card_2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 25,
+          "background_background": "classic",
+          "background_color": "#F4F9F8",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "0", "bottom": "30", "left": "0", "right": "0", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "th2_img",
+            "elType": "widget",
+            "widgetType": "image",
+            "settings": {
+              "image": {"url": "/wp-content/uploads/therapist-2.jpg", "id": ""},
+              "image_size": "full",
+              "width": {"size": 100, "unit": "%"},
+              "border_radius": {"top": "16", "right": "16", "bottom": "0", "left": "0", "unit": "px"}
+            }
+          },
+          {
+            "id": "th2_name",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Dr. Sarah Bennett",
+              "align": "center",
+              "header_size": "h3",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 20, "unit": "px"},
+              "typography_font_weight": "700",
+              "margin": {"top": "20", "unit": "px"}
+            }
+          },
+          {
+            "id": "th2_role",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#13A89E;font-weight:600;font-size:14px;margin-bottom:10px;'>Senior Physiotherapist</p>"
+            }
+          },
+          {
+            "id": "th2_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;padding:0 20px;'>Expert in rehabilitation programs with a focus on post-surgical recovery and chronic pain management.</p>",
+              "text_color": "#666666",
+              "typography_font_size": {"size": 14, "unit": "px"}
+            }
+          },
+          {
+            "id": "th2_social",
+            "elType": "widget",
+            "widgetType": "social-icons",
+            "settings": {
+              "social_icon_list": [
+                {"social_icon": {"value": "fab fa-facebook-f", "library": "fa-brands"}, "link": {"url": "#"}},
+                {"social_icon": {"value": "fab fa-linkedin-in", "library": "fa-brands"}, "link": {"url": "#"}},
+                {"social_icon": {"value": "fab fa-twitter", "library": "fa-brands"}, "link": {"url": "#"}}
+              ],
+              "align": "center",
+              "icon_color": "custom",
+              "icon_primary_color": "#13A89E",
+              "icon_secondary_color": "#FFFFFF",
+              "shape": "circle",
+              "icon_size": {"size": 14, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "th_card_3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 25,
+          "background_background": "classic",
+          "background_color": "#F4F9F8",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "0", "bottom": "30", "left": "0", "right": "0", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "th3_img",
+            "elType": "widget",
+            "widgetType": "image",
+            "settings": {
+              "image": {"url": "/wp-content/uploads/therapist-3.jpg", "id": ""},
+              "image_size": "full",
+              "width": {"size": 100, "unit": "%"},
+              "border_radius": {"top": "16", "right": "16", "bottom": "0", "left": "0", "unit": "px"}
+            }
+          },
+          {
+            "id": "th3_name",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Dr. James Wilson",
+              "align": "center",
+              "header_size": "h3",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 20, "unit": "px"},
+              "typography_font_weight": "700",
+              "margin": {"top": "20", "unit": "px"}
+            }
+          },
+          {
+            "id": "th3_role",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#13A89E;font-weight:600;font-size:14px;margin-bottom:10px;'>Sports Therapist</p>"
+            }
+          },
+          {
+            "id": "th3_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;padding:0 20px;'>Specialized in sports injury prevention and rehabilitation. Former team therapist for professional athletes.</p>",
+              "text_color": "#666666",
+              "typography_font_size": {"size": 14, "unit": "px"}
+            }
+          },
+          {
+            "id": "th3_social",
+            "elType": "widget",
+            "widgetType": "social-icons",
+            "settings": {
+              "social_icon_list": [
+                {"social_icon": {"value": "fab fa-facebook-f", "library": "fa-brands"}, "link": {"url": "#"}},
+                {"social_icon": {"value": "fab fa-linkedin-in", "library": "fa-brands"}, "link": {"url": "#"}},
+                {"social_icon": {"value": "fab fa-twitter", "library": "fa-brands"}, "link": {"url": "#"}}
+              ],
+              "align": "center",
+              "icon_color": "custom",
+              "icon_primary_color": "#13A89E",
+              "icon_secondary_color": "#FFFFFF",
+              "shape": "circle",
+              "icon_size": {"size": 14, "unit": "px"}
+            }
+          }
+        ]
+      },
+      {
+        "id": "th_card_4",
+        "elType": "column",
+        "settings": {
+          "_column_size": 25,
+          "background_background": "classic",
+          "background_color": "#F4F9F8",
+          "border_radius": {"top": "16", "right": "16", "bottom": "16", "left": "16", "unit": "px"},
+          "padding": {"top": "0", "bottom": "30", "left": "0", "right": "0", "unit": "px"}
+        },
+        "elements": [
+          {
+            "id": "th4_img",
+            "elType": "widget",
+            "widgetType": "image",
+            "settings": {
+              "image": {"url": "/wp-content/uploads/therapist-4.jpg", "id": ""},
+              "image_size": "full",
+              "width": {"size": 100, "unit": "%"},
+              "border_radius": {"top": "16", "right": "16", "bottom": "0", "left": "0", "unit": "px"}
+            }
+          },
+          {
+            "id": "th4_name",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Dr. Emily Roberts",
+              "align": "center",
+              "header_size": "h3",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 20, "unit": "px"},
+              "typography_font_weight": "700",
+              "margin": {"top": "20", "unit": "px"}
+            }
+          },
+          {
+            "id": "th4_role",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;color:#13A89E;font-weight:600;font-size:14px;margin-bottom:10px;'>Massage Therapist</p>"
+            }
+          },
+          {
+            "id": "th4_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;padding:0 20px;'>Certified in deep tissue, Swedish, and trigger point therapy. Combines traditional techniques with modern approaches.</p>",
+              "text_color": "#666666",
+              "typography_font_size": {"size": 14, "unit": "px"}
+            }
+          },
+          {
+            "id": "th4_social",
+            "elType": "widget",
+            "widgetType": "social-icons",
+            "settings": {
+              "social_icon_list": [
+                {"social_icon": {"value": "fab fa-facebook-f", "library": "fa-brands"}, "link": {"url": "#"}},
+                {"social_icon": {"value": "fab fa-linkedin-in", "library": "fa-brands"}, "link": {"url": "#"}},
+                {"social_icon": {"value": "fab fa-twitter", "library": "fa-brands"}, "link": {"url": "#"}}
+              ],
+              "align": "center",
+              "icon_color": "custom",
+              "icon_primary_color": "#13A89E",
+              "icon_secondary_color": "#FFFFFF",
+              "shape": "circle",
+              "icon_size": {"size": 14, "unit": "px"}
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "th_join_01",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "background_background": "classic",
+      "background_color": "#0B2545",
+      "padding": {"top": "80", "bottom": "80", "unit": "px"},
+      "margin": {"top": "80", "unit": "px"}
+    },
+    "elements": [
+      {
+        "id": "th_join_col",
+        "elType": "column",
+        "settings": {"_column_size": 100, "align": "center"},
+        "elements": [
+          {
+            "id": "th_join_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Join Our Growing Team",
+              "align": "center",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 36, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          },
+          {
+            "id": "th_join_desc",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;max-width:600px;margin:0 auto;'>We're always looking for talented and passionate professionals. If you share our commitment to patient care, we'd love to hear from you.</p>",
+              "text_color": "rgba(255,255,255,0.7)",
+              "typography_font_size": {"size": 16, "unit": "px"}
+            }
+          },
+          {
+            "id": "th_join_btn",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "View Open Positions",
+              "link": {"url": "/contact", "is_external": false},
+              "align": "center",
+              "size": "lg",
+              "background_color": "#13A89E",
+              "button_text_color": "#FFFFFF",
+              "border_radius": {"top": "8", "right": "8", "bottom": "8", "left": "8", "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]]]></wp:meta_value>
+      </wp:postmeta>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+        <wp:meta_value><![CDATA[a:2:{s:10:"hide_title";s:3:"yes";s:8:"template";s:25:"elementor_header_footer";}]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/"
+>
+  <channel>
+    <title>Chirox - FAQ</title>
+    <link>https://www.yoursite.com</link>
+    <description>FAQ Page</description>
+    <language>fr-FR</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://www.yoursite.com</wp:base_site_url>
+    <wp:base_blog_url>https://www.yoursite.com</wp:base_blog_url>
+
+    <wp:author>
+      <wp:author_id>1</wp:author_id>
+      <wp:author_login><![CDATA[admin]]></wp:author_login>
+      <wp:author_email><![CDATA[admin@yoursite.com]]></wp:author_email>
+      <wp:author_display_name><![CDATA[Admin]]></wp:author_display_name>
+    </wp:author>
+
+    <item>
+      <title>FAQ</title>
+      <link>https://www.yoursite.com/faq/</link>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <content:encoded><![CDATA[<h1>Frequently Asked Questions</h1>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>50</wp:post_id>
+      <wp:post_date><![CDATA[2026-03-17 00:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-03-17 00:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-03-17 00:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-03-17 00:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[faq]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+        <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+        <wp:meta_value><![CDATA[3.21.0]]></wp:meta_value>
+      </wp:postmeta>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+        <wp:meta_value><![CDATA[[
+  {
+    "id": "faq_hero_01",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "height": "min-height",
+      "custom_height": {"size": 400, "unit": "px"},
+      "background_background": "classic",
+      "background_color": "#0B2545",
+      "content_position": "middle",
+      "padding": {"top": "120", "bottom": "60", "unit": "px"}
+    },
+    "elements": [
+      {
+        "id": "faq_hero_col",
+        "elType": "column",
+        "settings": {"_column_size": 100, "align": "center"},
+        "elements": [
+          {
+            "id": "faq_breadcrumb",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;'><a href='/' style='color:rgba(255,255,255,0.6);text-decoration:none;'>Home</a> <span style='color:rgba(255,255,255,0.4);margin:0 10px;'>/</span> <span style='color:#13A89E;'>FAQ</span></p>"
+            }
+          },
+          {
+            "id": "faq_hero_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Frequently Asked Questions",
+              "align": "center",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 52, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "faq_content_01",
+    "elType": "section",
+    "settings": {
+      "layout": "boxed",
+      "padding": {"top": "100", "bottom": "50", "left": "20", "right": "20", "unit": "px"},
+      "background_color": "#FFFFFF",
+      "structure": "20"
+    },
+    "elements": [
+      {
+        "id": "faq_left_col",
+        "elType": "column",
+        "settings": {"_column_size": 50, "padding": {"right": "30", "unit": "px"}},
+        "elements": [
+          {
+            "id": "faq_label",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='color:#13A89E;font-weight:700;font-size:14px;text-transform:uppercase;letter-spacing:2px;'>General Questions</p>"
+            }
+          },
+          {
+            "id": "faq_section_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "About Chiropractic Care",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 32, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          },
+          {
+            "id": "faq_accordion_1",
+            "elType": "widget",
+            "widgetType": "accordion",
+            "settings": {
+              "tabs": [
+                {
+                  "tab_title": "What is chiropractic care?",
+                  "tab_content": "Chiropractic care is a form of alternative medicine focused on the diagnosis and treatment of mechanical disorders of the musculoskeletal system, especially the spine. Chiropractors use hands-on spinal manipulation and other techniques to properly align the body's musculoskeletal structure, enabling the body to heal itself without surgery or medication."
+                },
+                {
+                  "tab_title": "Is chiropractic treatment safe?",
+                  "tab_content": "Yes, chiropractic treatment is widely recognized as one of the safest, drug-free, non-invasive therapies available for the treatment of neuromusculoskeletal complaints. Our chiropractors are highly trained professionals who tailor each treatment to the individual patient's needs and comfort level."
+                },
+                {
+                  "tab_title": "How many sessions will I need?",
+                  "tab_content": "The number of sessions varies depending on your condition, its severity, and your overall health goals. After your initial assessment, our chiropractor will create a personalized treatment plan and discuss the expected number of sessions. Many patients experience significant improvement within 6-12 sessions."
+                },
+                {
+                  "tab_title": "Do I need a referral from my doctor?",
+                  "tab_content": "No, you do not need a referral to see a chiropractor. You can book an appointment directly with our clinic. However, if you have a referral from your doctor, please bring it along as it can provide useful information for your treatment plan."
+                },
+                {
+                  "tab_title": "Does chiropractic adjustment hurt?",
+                  "tab_content": "Most patients experience minimal discomfort during chiropractic adjustments. You may hear a popping sound, which is completely normal — it's simply gas being released from the joints. Some patients may feel mild soreness after their first few sessions, similar to what you might feel after starting a new exercise routine."
+                }
+              ],
+              "title_color": "#0B2545",
+              "title_background": "#F4F9F8",
+              "tab_active_color": "#13A89E",
+              "content_color": "#555555",
+              "border_color": "#E8E8E8"
+            }
+          }
+        ]
+      },
+      {
+        "id": "faq_right_col",
+        "elType": "column",
+        "settings": {"_column_size": 50, "padding": {"left": "30", "unit": "px"}},
+        "elements": [
+          {
+            "id": "faq_label2",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='color:#13A89E;font-weight:700;font-size:14px;text-transform:uppercase;letter-spacing:2px;'>Practical Information</p>"
+            }
+          },
+          {
+            "id": "faq_section_title2",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Appointments & Insurance",
+              "header_size": "h2",
+              "title_color": "#0B2545",
+              "typography_font_size": {"size": 32, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          },
+          {
+            "id": "faq_accordion_2",
+            "elType": "widget",
+            "widgetType": "accordion",
+            "settings": {
+              "tabs": [
+                {
+                  "tab_title": "What should I bring to my first appointment?",
+                  "tab_content": "Please bring a valid photo ID, your insurance card (if applicable), any relevant medical records or imaging results, a list of current medications, and comfortable clothing. Arriving 15 minutes early will allow you to complete the necessary paperwork."
+                },
+                {
+                  "tab_title": "Do you accept insurance?",
+                  "tab_content": "Yes, we accept most major insurance plans. We recommend contacting your insurance provider to verify your chiropractic benefits before your first visit. Our front desk team can also assist you with insurance verification and billing questions."
+                },
+                {
+                  "tab_title": "How long is each appointment?",
+                  "tab_content": "Your initial consultation typically takes 45-60 minutes, as it includes a comprehensive examination and health history review. Follow-up treatment sessions usually last 15-30 minutes, depending on the type of therapy and your specific treatment plan."
+                },
+                {
+                  "tab_title": "Can I cancel or reschedule my appointment?",
+                  "tab_content": "Yes, we ask that you provide at least 24 hours notice for cancellations or rescheduling. You can call our office or use our online booking system to manage your appointments. Late cancellations or no-shows may be subject to a fee."
+                },
+                {
+                  "tab_title": "What conditions do you treat?",
+                  "tab_content": "We treat a wide range of conditions including back pain, neck pain, headaches, sciatica, sports injuries, whiplash, arthritis, carpal tunnel syndrome, TMJ disorders, and general musculoskeletal pain. We also provide preventive care and wellness programs."
+                }
+              ],
+              "title_color": "#0B2545",
+              "title_background": "#F4F9F8",
+              "tab_active_color": "#13A89E",
+              "content_color": "#555555",
+              "border_color": "#E8E8E8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "faq_cta_01",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "background_background": "classic",
+      "background_color": "#0B2545",
+      "padding": {"top": "80", "bottom": "80", "unit": "px"}
+    },
+    "elements": [
+      {
+        "id": "faq_cta_col",
+        "elType": "column",
+        "settings": {"_column_size": 100, "align": "center"},
+        "elements": [
+          {
+            "id": "faq_cta_title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Still Have Questions?",
+              "align": "center",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_family": "Plus Jakarta Sans",
+              "typography_font_size": {"size": 36, "unit": "px"},
+              "typography_font_weight": "800"
+            }
+          },
+          {
+            "id": "faq_cta_text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style='text-align:center;'>Don't hesitate to reach out. Our friendly team is ready to help you with any additional questions.</p>",
+              "text_color": "rgba(255,255,255,0.7)",
+              "typography_font_size": {"size": 17, "unit": "px"}
+            }
+          },
+          {
+            "id": "faq_cta_btn",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Contact Us",
+              "link": {"url": "/contact", "is_external": false},
+              "align": "center",
+              "size": "lg",
+              "background_color": "#13A89E",
+              "button_text_color": "#FFFFFF",
+              "border_radius": {"top": "8", "right": "8", "bottom": "8", "left": "8", "unit": "px"},
+              "typography_font_weight": "700"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]]]></wp:meta_value>
+      </wp:postmeta>
+
+      <wp:postmeta>
+        <wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+        <wp:meta_value><![CDATA[a:2:{s:10:"hide_title";s:3:"yes";s:8:"template";s:25:"elementor_header_footer";}]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>
